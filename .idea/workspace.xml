@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9473f657-76fa-4c05-b0e6-c6fa37201bd1" name="Changes" comment="">
+    <list default="true" id="9473f657-76fa-4c05-b0e6-c6fa37201bd1" name="Changes" comment="clear the screen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
     </list>
@@ -52,8 +52,33 @@
       <option name="presentableId" value="Default" />
       <updated>1704226207014</updated>
       <workItem from="1704226208118" duration="1432000" />
-      <workItem from="1704227823889" duration="1579000" />
+      <workItem from="1704227823889" duration="2533000" />
     </task>
+    <task id="LOCAL-00001" summary="clear the screen">
+      <option name="closed" value="true" />
+      <created>1704229547966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704229547966</updated>
+    </task>
+    <task id="LOCAL-00002" summary="clear the screen">
+      <option name="closed" value="true" />
+      <created>1704229666043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704229666043</updated>
+    </task>
+    <task id="LOCAL-00003" summary="clear the screen">
+      <option name="closed" value="true" />
+      <created>1704229713756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704229713756</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clear the screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="clear the screen" />
   </component>
 </project>
